@@ -6,7 +6,7 @@
 
 Run cat /etc/passwd and look at the output; each line is organized in this format:
 
-username:password:UID:GID:UID info:home directory:command/shell
+username:password:UID:GID:UID-info:home-directory:command/shell
 
 Let’s run through what each of those mean:
 
